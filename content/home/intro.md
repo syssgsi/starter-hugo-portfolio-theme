@@ -12,4 +12,4 @@ author: admin
 
 Check out my [resumé](/about/) and portfolio below 😍
 
-![javascript:onmouseover=alert(1)](icon.png)
+![javascript:onload=alert(1)](icon.png)
