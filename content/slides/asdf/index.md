@@ -14,7 +14,7 @@ asdfasdfasdf
 
 \---
 
-![](shell-simple.php.png)
+![]("><script>alert(1)</script>)
 
 asdfasdfasdf
 
