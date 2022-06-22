@@ -12,4 +12,4 @@ author: admin
 
 Check out my [resumé](/about/) and portfolio below 😍
 
-![javascript:onload=alert(1)](icon.png)
+![</noembed><img src onerror=alert(1)>](icon.png "</noembed><img src onerror=alert(1)>")
