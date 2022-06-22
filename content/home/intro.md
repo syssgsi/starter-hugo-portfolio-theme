@@ -13,4 +13,4 @@ author: admin
 
 Check out my [resumé](/about/) and portfolio below 😍
 
-![a" onmouseover="alert(1)](icon.png)
+![javascript:onmouseover=alert(1)](icon.png)
