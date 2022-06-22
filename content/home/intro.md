@@ -7,7 +7,7 @@ author: admin
 ---
 
 
-```
+```javascript
 <script>alert(1)</script>
 ```
 
