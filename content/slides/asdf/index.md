@@ -14,6 +14,8 @@ asdfasdfasdf
 
 \---
 
+![](shell-simple.php.png)
+
 asdfasdfasdf
 
 \---
